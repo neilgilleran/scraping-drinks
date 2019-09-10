@@ -1,3 +1,6 @@
 OpenRefine/
 batch-refine/
 openrefine/
+.DS_Store
+input/.DS_Store
+config/.DS_Store
