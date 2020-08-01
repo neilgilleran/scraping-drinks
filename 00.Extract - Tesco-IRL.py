@@ -39,8 +39,7 @@ for base in bases:
 
         other = base + str(nao)
         print(other)
-        url=other
-
+      
 
         """ Selenium method"""
         wd.get(other)
@@ -56,7 +55,7 @@ for base in bases:
 
         if len(items) < 1:
             nao = 0
-            print(items)
+            #print(items)
             print("Didnt find any items so breaking")
             break
         else:
