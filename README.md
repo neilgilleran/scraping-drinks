@@ -5,4 +5,6 @@ Openrefine usage
 
 https://github.com/opencultureconsulting/openrefine-batch#usage
 
-
+## install selnium stuff
+pip3 install selenium
+sudo apt-get install chromium-chromedriver
