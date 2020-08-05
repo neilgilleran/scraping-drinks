@@ -7,4 +7,7 @@ https://github.com/opencultureconsulting/openrefine-batch#usage
 
 ## install selnium stuff
 pip3 install selenium
+
+## install chromium driver
+sudo apt-get install chromium
 sudo apt-get install chromium-chromedriver
