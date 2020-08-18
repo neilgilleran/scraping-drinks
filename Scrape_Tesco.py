@@ -89,7 +89,7 @@ for base in bases:
 
                 stuff = [product_name,price,previous,offer]
                 data.append(stuff)
-                print(data)
+                #print(data)
         df = df.append(data,ignore_index=True)
         
         nao = incrementor + nao
