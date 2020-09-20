@@ -1,0 +1,157 @@
+Scrape_Tesco.py:23: FutureWarning: The pandas.np module is deprecated and will be removed from pandas in a future version. Import numpy directly instead
+  df = pd.DataFrame(pd.np.empty((0, 4)))
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=0
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=20
+Traceback (most recent call last):
+  File "Scrape_Tesco.py", line 45, in <module>
+    wd.get(other)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout: Timed out receiving message from renderer: 201.630
+  (Session info: headless chrome=83.0.4103.116)
+
+Scrape_Tesco.py:23: FutureWarning: The pandas.np module is deprecated and will be removed from pandas in a future version. Import numpy directly instead
+  df = pd.DataFrame(pd.np.empty((0, 4)))
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=0
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=20
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=40
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=60
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=80
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=100
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=120
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=140
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=160
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=180
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=200
+Didnt find any items so breaking
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=0
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=20
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=40
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=60
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=80
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=100
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=120
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=140
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=160
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=180
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=200
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=220
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=240
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=260
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=280
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=300
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=320
+Didnt find any items so breaking
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=0
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=20
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=40
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=60
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=80
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=100
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=120
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=140
+Didnt find any items so breaking
+Scrape_Tesco.py:23: FutureWarning: The pandas.np module is deprecated and will be removed from pandas in a future version. Import numpy directly instead
+  df = pd.DataFrame(pd.np.empty((0, 4)))
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=0
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=20
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=40
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=60
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=80
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=100
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=120
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=140
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=160
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=180
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=200
+Didnt find any items so breaking
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=0
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=20
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=40
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=60
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=80
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=100
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=120
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=140
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=160
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=180
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=200
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=220
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=240
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=260
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=280
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=300
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=320
+Didnt find any items so breaking
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=0
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=20
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=40
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=60
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=80
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=100
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=120
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=140
+Didnt find any items so breaking
+Scrape_Tesco.py:23: FutureWarning: The pandas.np module is deprecated and will be removed from pandas in a future version. Import numpy directly instead
+  df = pd.DataFrame(pd.np.empty((0, 4)))
+Traceback (most recent call last):
+  File "Scrape_Tesco.py", line 33, in <module>
+    wd = webdriver.Chrome('chromedriver',options=options)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/chrome/webdriver.py", line 81, in __init__
+    desired_capabilities=desired_capabilities)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: DevToolsActivePort file doesn't exist
+
+Scrape_Tesco.py:23: FutureWarning: The pandas.np module is deprecated and will be removed from pandas in a future version. Import numpy directly instead
+  df = pd.DataFrame(pd.np.empty((0, 4)))
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=0
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=20
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=40
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=60
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=80
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=100
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=120
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=140
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=160
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=180
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=200
+Didnt find any items so breaking
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=0
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=20
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=40
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=60
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=80
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=100
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=120
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=140
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=160
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=180
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=200
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=220
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=240
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=260
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=280
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=300
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=320
+Didnt find any items so breaking
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=0
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=20
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=40
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=60
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=80
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=100
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=120
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=140
+https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao=160
+Didnt find any items so breaking
