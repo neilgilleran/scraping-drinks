@@ -1,0 +1,523 @@
+Name,Price,Offer,PreviousPrice,Retailer,DateScraped
+Abellio Albarino (75 cl),10.00,"WAS 13.99, NOW 10.00, SAVE 3.99",13.99,SuperValu,20210420
+Albert Glas Riesling Brown Label (75 cl),12.00,"WAS 14.99, NOW 12.00, SAVE 2.99",14.99,SuperValu,20210420
+Andre Goichot Pouilly Fuisse (75 cl),20.00,"WAS 22.99, NOW 20.00, SAVE 2.99",22.99,SuperValu,20210420
+Annelise Pinot Grigio (75 cl),8.00,"WAS 11.99, NOW 8.00, SAVE 3.99",11.99,SuperValu,20210420
+Aresti Trisquel Assemblage (75 cl),12.00,"WAS 15.99, NOW 12.00, SAVE 3.99",15.99,SuperValu,20210420
+Budweiser Lager Bottles 6 Pack (330 ml),10.00,"WAS 11.50, NOW 10.00, SAVE 1.50",11.50,SuperValu,20210420
+Carling Lager Cans 8 Pack (500 ml),9.50,"WAS 10.67, NOW 9.50, SAVE 1.17",10.67,SuperValu,20210420
+Carlsberg Danish Pilsner Lager Cans 8 Pack (500 ml),12.50,"WAS 14.00, NOW 12.50, SAVE 1.50",14.00,SuperValu,20210420
+Coors Light Cans 8 Pack (500 ml),12.50,"WAS 14.50, NOW 12.50, SAVE 2.00",14.50,SuperValu,20210420
+Guinness Draught Stout Cans 8 Pack (500 ml),12.50,"WAS 14.50, NOW 12.50, SAVE 2.00",14.50,SuperValu,20210420
+12 Acres Pale Ale (440 ml),2.65,"WAS 3.25, NOW 2.65, SAVE 0.60",3.25,SuperValu,20210420
+12 Acres Pallet Jack India Pale Lager (440 ml),2.65,"WAS 3.25, NOW 2.65, SAVE 0.60",3.25,SuperValu,20210420
+5 Lamp Lager Bottle (500 ml),2.50,"WAS 3.00, NOW 2.50, SAVE 0.50",3.00,SuperValu,20210420
+5 Lamps Pale Ale (500 ml),2.50,"WAS 3.00, NOW 2.50, SAVE 0.50",3.00,SuperValu,20210420
+8D Citra Single Hop IPA (440 ml),2.50,"WAS 3.00, NOW 2.50, SAVE 0.50",3.00,SuperValu,20210420
+Appleman's Cider Cans 8 Pack (500 ml),12.50,"WAS 13.00, NOW 12.50, SAVE 0.50",13.00,SuperValu,20210420
+Bulmers Cans 8 Pack (500 ml),12.50,"WAS 14.00, NOW 12.50, SAVE 1.50",14.00,SuperValu,20210420
+Bulmers Light Irish Cider Cans 8 Pack (500 ml),12.50,"WAS 14.00, NOW 12.50, SAVE 1.50",14.00,SuperValu,20210420
+Druids Celtic Cider Cans 8 Pack (500 ml),11.00,"WAS 13.00, NOW 11.00, SAVE 2.00",13.00,SuperValu,20210420
+Kopparberg Mixed Fruit Cider (500 ml),2.60,"WAS 3.75, NOW 2.60, SAVE 1.15",3.75,SuperValu,20210420
+Absolut Vodka (70 cl),18.00,"WAS 27.85, NOW 18.00, SAVE 9.85",27.85,SuperValu,20210420
+Antica Sambuca (70 cl),22.00,"WAS 25.00, NOW 22.00, SAVE 3.00",25.00,SuperValu,20210420
+Aperol Spritz (70 cl),17.00,"WAS 20.00, NOW 17.00, SAVE 3.00",20.00,SuperValu,20210420
+Archers Peach Schnapps (70 cl),17.00,"WAS 22.00, NOW 17.00, SAVE 5.00",22.00,SuperValu,20210420
+Bacardi Carta Blanca Rum (70 cl),23.00,"WAS 26.49, NOW 23.00, SAVE 3.49",26.49,SuperValu,20210420
+Brew Dog Punk Alcohol Free IPA Cans 4 Pack (330 ml),6.00,"WAS 7.00, NOW 6.00, SAVE 1.00",7.00,SuperValu,20210420
+Bulmers 0.0 Bottles 4 Pack (330 ml),5.00,"WAS 6.00, NOW 5.00, SAVE 1.00",6.00,SuperValu,20210420
+Lyre's American Malt Non-Alcoholic Spirits (700 ml),23.50,"WAS 26.00, NOW 23.50, SAVE 2.50",26.00,SuperValu,20210420
+Lyre's Dry London Non-Alcoholic Spirit (700 ml),23.50,"WAS 26.00, NOW 23.50, SAVE 2.50",26.00,SuperValu,20210420
+Lyre's Italian Orange Non-Alcoholic Spirits (700 ml),23.50,"WAS 26.00, NOW 23.50, SAVE 2.50",26.00,SuperValu,20210420
+Finlandia Classic Vodka (70 cl),22.00,"WAS 27.50, NOW 22.00, SAVE 5.50",27.50,SuperValu,20210420
+Smirnoff Vodka (1 L),27.00,"WAS 34.00, NOW 27.00, SAVE 7.00",34.00,SuperValu,20210420
+Smirnoff Vodka (70 cl),18.00,"WAS 21.00, NOW 18.00, SAVE 3.00",21.00,SuperValu,20210420
+Absolut Citron Vodka (70 cl),26.30,,,SuperValu,20210420
+Absolut Grapefruit Vodka (70 cl),26.00,,,SuperValu,20210420
+Absolut Raspberri Vodka (70 cl),26.30,,,SuperValu,20210420
+Absolut Vanilla Vodka (70 cl),26.00,,,SuperValu,20210420
+Absolut Vodka (1 L),40.30,,,SuperValu,20210420
+Absolut Vodka (35 cl),14.60,,,SuperValu,20210420
+Absolut Vodka (20 cl),7.99,,,SuperValu,20210420
+Dingle Original Vodka (70 cl),32.00,,,SuperValu,20210420
+Eristoff Original Vodka (70 cl),19.00,,,SuperValu,20210420
+Fris Vodka (70 cl),22.00,,,SuperValu,20210420
+Grey Goose Vodka (70 cl),59.00,,,SuperValu,20210420
+Huzzar Vodka (200 ml),6.65,,,SuperValu,20210420
+Huzzar Vodka (70 cl),22.59,,,SuperValu,20210420
+Huzzar Vodka (1 L),32.20,,,SuperValu,20210420
+Ketel One Botanical Peach and Orange Vodka (70 cl),30.00,,,SuperValu,20210420
+Smirnoff Vodka (20 ml),7.50,,,SuperValu,20210420
+Bushmills Black Bush Irish Whiskey (70 cl),26.00,"WAS 33.00, NOW 26.00, SAVE 7.00",33.00,SuperValu,20210420
+Bushmills Irish Whiskey Gift Tube (70 cl),25.00,"WAS 28.29, NOW 25.00, SAVE 3.29",28.29,SuperValu,20210420
+Bushmills Triple Distilled Irish Whiskey (70 cl),25.00,"WAS 28.29, NOW 25.00, SAVE 3.29",28.29,SuperValu,20210420
+Dunphy's Irish Whiskey (70 cl),21.00,"WAS 24.55, NOW 21.00, SAVE 3.55",24.55,SuperValu,20210420
+Jameson Irish Whiskey (200 ml),9.75,"WAS 11.80, NOW 9.75, SAVE 2.05",11.80,SuperValu,20210420
+Kilbeggan Irish Whiskey (70 cl),24.00,"WAS 27.27, NOW 24.00, SAVE 3.27",27.27,SuperValu,20210420
+Paddy Irish Whiskey (1 L),27.00,"WAS 42.00, NOW 27.00, SAVE 15.00",42.00,SuperValu,20210420
+Powers Gold Label Irish Whiskey (350 ml),14.00,"WAS 17.00, NOW 14.00, SAVE 3.00",17.00,SuperValu,20210420
+Bushmills 10 Year Single Malt Irish Whiskey (70 cl),48.00,,,SuperValu,20210420
+Clonakility Distiller Double Oak Cask Irish Whiskey (70 cl),51.00,,,SuperValu,20210420
+Connemara Single Malt Irish Whiskey (70 cl),42.00,,,SuperValu,20210420
+Drumshanbo Single Pot Still Whiskey (70 cl),59.00,,,SuperValu,20210420
+Dubliner Blended Whiskey (70 cl),30.00,,,SuperValu,20210420
+Glendalough Double Barrel Whiskey (70 cl),38.00,,,SuperValu,20210420
+Grace O'Malley Blended Irish Whiskey (70 cl),35.00,,,SuperValu,20210420
+Green Spot Single Pot Still Irish Whiskey (70 cl),60.00,,,SuperValu,20210420
+Hyde 1916 Single Grain Irish Whiskey (70 cl),48.00,,,SuperValu,20210420
+Jameson Black Barrel Irish Whiskey (70 cl),53.00,,,SuperValu,20210420
+Jameson Caskmates Irish Whiskey (70 cl),39.00,,,SuperValu,20210420
+Jameson Cold Brew Irish Whiskey (70 cl),30.50,,,SuperValu,20210420
+Jameson Crested Irish Whiskey (70 cl),36.50,,,SuperValu,20210420
+Jameson IPA Edition Irish Whiskey (70 cl),39.00,,,SuperValu,20210420
+Jameson Triple Distiled Irish Whiskey (1 L),47.65,,,SuperValu,20210420
+Jameson Triple Distilled Irish Whiskey (70 cl),30.50,,,SuperValu,20210420
+Jameson Triple Distilled Irish Whiskey (35 cl),19.59,,,SuperValu,20210420
+Method & Madness Single Grain Whiskey (70 cl),50.00,,,SuperValu,20210420
+Midleton Barry Crockett Single Pot Still Whiskey (70 cl),249.99,,,SuperValu,20210420
+Minke Irish Gin (70 cl),53.00,,,SuperValu,20210420
+Paddy Irish Whiskey (350 ml),15.99,,,SuperValu,20210420
+Paddy Irish Whiskey (200 ml),10.77,,,SuperValu,20210420
+Paddy's Irish Whiskey (70 cl),27.85,,,SuperValu,20210420
+Powers Classic Cocktail The Old Fashioned (50 cl),30.00,,,SuperValu,20210420
+Powers Gold Label Irish Whiskey (200 ml),10.70,,,SuperValu,20210420
+Powers Gold Label Irish Whiskey (1 L),45.00,,,SuperValu,20210420
+Powers Gold Label Irish Whiskey (70 cl),29.79,,,SuperValu,20210420
+Powers Three Swallow Single Pot Still Irish Whiskey (70 cl),46.00,,,SuperValu,20210420
+Proclamation Blended Irish Whiskey (70 cl),35.00,,,SuperValu,20210420
+Red Earl Irish Whiskey (70 cl),35.00,,,SuperValu,20210420
+Redbreast 15 Year Old Irish Whiskey (70 ml),100.00,,,SuperValu,20210420
+RedBrest 12 Year Old Irish Whiskey (70 cl),65.00,,,SuperValu,20210420
+Roe & Co Irish Whiskey (70 cl),45.00,,,SuperValu,20210420
+Slane Irish Whiskey (70 cl),33.00,,,SuperValu,20210420
+Teeling Irish Whiskey (70 cl),38.00,,,SuperValu,20210420
+Teeling Revival Single Malt Irish Whiskey (70 cl),120.00,,,SuperValu,20210420
+Teeling Small Batch Irish Whiskey Gift Tin (70 cl),38.00,,,SuperValu,20210420
+Teeling Whiskey Single Pot Still (70 cl),55.00,,,SuperValu,20210420
+The Irishman Founder's Reserve Whiskey (70 cl),39.00,,,SuperValu,20210420
+The Sexton Single Malt Irish Whiskey (70 cl),38.00,,,SuperValu,20210420
+Tullamore D.E.W. XO Rum Cask Irish Whiskey (70 cl),35.00,,,SuperValu,20210420
+Tullamore Dew Irish Whiskey (70 cl),31.00,,,SuperValu,20210420
+West Cork Bourbon Cask Single Malt (70 cl),35.00,,,SuperValu,20210420
+West Cork Original Irish Whiskey (70 cl),24.99,,,SuperValu,20210420
+Writers Tears Double Oak Irish Whiskey (70 cl),57.00,,,SuperValu,20210420
+Yellow Spot 12 Year Old Single Pot Still Whiskey (70 cl),80.00,,,SuperValu,20210420
+Jack Daniel's Old No. 7 Whiskey (70 cl),25.00,"WAS 34.74, NOW 25.00, SAVE 9.74",34.74,SuperValu,20210420
+Jim Beam Bourbon Whiskey (70 cl),22.00,"WAS 28.99, NOW 22.00, SAVE 6.99",28.99,SuperValu,20210420
+Buffalo Trace Bourbon Whiskey (70 70 CL),37.00,,,SuperValu,20210420
+Gentleman Jack Rare Tennessee Whiskey (70 cl),45.00,,,SuperValu,20210420
+Jack Daniel's Tennessee Honey Whiskey (70 cl),34.74,,,SuperValu,20210420
+Jack Daniel's Tennessee Whiskey (35 cl),20.25,,,SuperValu,20210420
+Marker's Mark Bourbon Whisky (70 cl),45.99,,,SuperValu,20210420
+Southern Comfort (70 cl),28.89,,,SuperValu,20210420
+Bell's Original Scotch Whisky (70 cl),22.00,,,SuperValu,20210420
+Chivas Regal (70 cl),43.00,,,SuperValu,20210420
+Johnnie Walker Black Label Blended Scotch Whisky (70 cl),45.50,,,SuperValu,20210420
+Teacher's Blended Scotch Whisky (70 cl),25.45,,,SuperValu,20210420
+Courvoisier VS Cognac Brandy (70 cl),36.85,,,SuperValu,20210420
+Hennessy Cognac Brandy (200 ml),13.50,,,SuperValu,20210420
+Hennessy Very Special Cognac Brandy (350 ml),22.50,,,SuperValu,20210420
+Hennessy Very Special Cognac Brandy (1 L),53.95,,,SuperValu,20210420
+Hennessy Very Special Cognac Brandy (70 cl),38.00,,,SuperValu,20210420
+Hennessy Very Special Old Pale Cognac Brandy (70 cl),62.99,,,SuperValu,20210420
+Martell VS Cognac Brandy (70 cl),36.35,,,SuperValu,20210420
+Baileys The Original Irish Cream Liqueur (70 cl),18.00,,,SuperValu,20210420
+Baileys The Original Irish Cream Liqueur (1 L),31.00,,,SuperValu,20210420
+Coole Swan Superior Irish Cream Liqueur (70 cl),25.00,,,SuperValu,20210420
+Five Farms Irish Cream Liqueur (70 cl),35.00,,,SuperValu,20210420
+McCormick's Irish Country Cream (70 cl),6.99,,,SuperValu,20210420
+Bombay Sapphire London Dry Gin (70 cl),26.00,"WAS 31.00, NOW 26.00, SAVE 5.00",31.00,SuperValu,20210420
+Cork Dry Gin (70 cl),20.00,"WAS 24.15, NOW 20.00, SAVE 4.15",24.15,SuperValu,20210420
+Gordon's Dry Gin (1 L),27.00,"WAS 36.00, NOW 27.00, SAVE 9.00",36.00,SuperValu,20210420
+Gordon's Pink Gin (1 L),27.00,"WAS 37.00, NOW 27.00, SAVE 10.00",37.00,SuperValu,20210420
+Hendricks Gin Lunar (70 cl),40.00,"WAS 46.00, NOW 40.00, SAVE 6.00",46.00,SuperValu,20210420
+Beara Ocean Gin (70 cl),39.50,,,SuperValu,20210420
+Beara Pink Ocean Gin (70 cl),39.50,,,SuperValu,20210420
+Beefeater London Dry Gin (70 cl),27.99,,,SuperValu,20210420
+Beefeater Pink (70 cl),25.50,,,SuperValu,20210420
+Bombay Bramble Blackberry & Raspberry Gin (700 ml),32.50,,,SuperValu,20210420
+Bonac Irish Gin (70 cl),45.00,,,SuperValu,20210420
+Clean Liquor Co Low Alcholic Gin (70 cl),27.00,,,SuperValu,20210420
+Cork Dry Gin (1 L),35.20,,,SuperValu,20210420
+Dingle Original Gin (70 cl),38.00,,,SuperValu,20210420
+Drumshanbo Gunpowder Gin Ceramic Limited Edition (70 cl),45.00,,,SuperValu,20210420
+Drumshanbo Gunpowder Irish Gin (70 cl),45.00,,,SuperValu,20210420
+Eglinton Irish Pink Gin (70 cl),32.00,,,SuperValu,20210420
+Gordon's Dry Gin (20 cl),8.50,,,SuperValu,20210420
+Gordon's Dry Gin (70 cl),23.00,,,SuperValu,20210420
+Gordon's Mediterranean Orange (70 cl),24.00,,,SuperValu,20210420
+Gordon's Pink Gin (70 cl),24.00,,,SuperValu,20210420
+Gordon's Sicilian Lemon Gin (70 cl),24.00,,,SuperValu,20210420
+Grace O'Malley Heather Infused Irish Gin (70 cl),35.00,,,SuperValu,20210420
+Graham Norton's Own Irish Gin (70 cl),39.00,,,SuperValu,20210420
+Graham Norton's Own Pink Gin (70 cl),39.00,,,SuperValu,20210420
+Hendrick's Gin (70 cl),40.00,,,SuperValu,20210420
+Malfy Con Limone Gin (70 70 CL),36.60,,,SuperValu,20210420
+Malfy Gin Rosa (70 cl),36.60,,,SuperValu,20210420
+Method & Madness Gin (70 cl),50.00,,,SuperValu,20210420
+Tanqueray Dry Gin (70 cl),31.00,,,SuperValu,20210420
+Captain Morgan Spiced Gold Rum (1 L),27.00,"WAS 36.00, NOW 27.00, SAVE 9.00",36.00,SuperValu,20210420
+Diplomatico Mantuano Rum (70 cl),35.00,"WAS 39.99, NOW 35.00, SAVE 4.99",39.99,SuperValu,20210420
+Diplomatico Reserve Exclusiva Rum (70 cl),50.00,"WAS 55.00, NOW 50.00, SAVE 5.00",55.00,SuperValu,20210420
+Havana Club 3 Year Old Rum (70 ml),24.00,"WAS 27.40, NOW 24.00, SAVE 3.40",27.40,SuperValu,20210420
+Havana Club 7 Year Old Rum (70 cl),33.00,"WAS 41.00, NOW 33.00, SAVE 8.00",41.00,SuperValu,20210420
+Havana Club Anejo Especial Rum (70 cl),24.00,"WAS 32.30, NOW 24.00, SAVE 8.30",32.30,SuperValu,20210420
+Lamb's Spiced Rum (700 ml),20.00,"WAS 24.00, NOW 20.00, SAVE 4.00",24.00,SuperValu,20210420
+The Kracken Black Spiced Rum (70 cl),27.00,"WAS 30.00, NOW 27.00, SAVE 3.00",30.00,SuperValu,20210420
+Bacardi Carta Blanca Rum (20 cl),9.70,,,SuperValu,20210420
+Bacardi Carta Blanca Rum (1 L),38.00,,,SuperValu,20210420
+Bacardi Raspberry Rum (70 cl),25.35,,,SuperValu,20210420
+Captain Morgan Original Spiced Gold Rum (35 cl),13.50,,,SuperValu,20210420
+Captain Morgan Original Spiced Gold Rum (20 cl),8.50,,,SuperValu,20210420
+Captain Morgan Spiced Gold Rum (70 cl),24.00,,,SuperValu,20210420
+Captain Morgan White Rum (70 cl),27.99,,,SuperValu,20210420
+Dead Man's Finger Pineapple Rum (70 cl),30.00,,,SuperValu,20210420
+Sea Dog Jamaican Rum (70 cl),26.94,,,SuperValu,20210420
+Beefeater Pink Gin & Tonic Premixed Drink (250 ml),2.25,"WAS 2.99, NOW 2.25, SAVE 0.74",2.99,SuperValu,20210420
+Campari Milano Bitter (70 cl),20.00,"WAS 22.49, NOW 20.00, SAVE 2.49",22.49,SuperValu,20210420
+Cointreau Liqueur (70 cl),30.00,"WAS 38.00, NOW 30.00, SAVE 8.00",38.00,SuperValu,20210420
+Disaronno Liqueur (500 ml),18.00,"WAS 19.98, NOW 18.00, SAVE 1.98",19.98,SuperValu,20210420
+Fat Frog Hard Pink Soda (330 ml),2.25,"WAS 2.50, NOW 2.25, SAVE 0.25",2.50,SuperValu,20210420
+Fat Frog Original Fruit Flavoured Alcoholic Drink (330 ml),2.25,"WAS 2.50, NOW 2.25, SAVE 0.25",2.50,SuperValu,20210420
+Flying Flamingo Peach Fizz Hard Seltzer (250 ml),2.00,"WAS 3.00, NOW 2.00, SAVE 1.00",3.00,SuperValu,20210420
+Flying Flamingo Pineapple Punch Hard Seltzer (250 ml),2.00,"WAS 3.00, NOW 2.00, SAVE 1.00",3.00,SuperValu,20210420
+Gordon's Gin & Tonic Premixed Can (250 ml),2.25,"WAS 2.50, NOW 2.25, SAVE 0.25",2.50,SuperValu,20210420
+Gordon's Pink Gin & Tonic Premix Can (250 ml),2.25,"WAS 2.50, NOW 2.25, SAVE 0.25",2.50,SuperValu,20210420
+Jack Daniel's Whiskey & Cola Can (330 ml),3.00,"WAS 3.40, NOW 3.00, SAVE 0.40",3.40,SuperValu,20210420
+Jack Daniel's Whiskey & Ginger Can (330 ml),3.00,"WAS 3.40, NOW 3.00, SAVE 0.40",3.40,SuperValu,20210420
+Jack Daniel's Whiskey & No Sugar Cola (330 ml),3.00,"WAS 3.40, NOW 3.00, SAVE 0.40",3.40,SuperValu,20210420
+Jack Daniel's Whiskey with Honey Liqueur and Lemonade (330 ml),3.00,"WAS 3.40, NOW 3.00, SAVE 0.40",3.40,SuperValu,20210420
+Jagermeister (20 cl),8.49,"WAS 8.69, NOW 8.49, SAVE 0.20",8.69,SuperValu,20210420
+Jagermeister (70 cl),24.00,"WAS 29.99, NOW 24.00, SAVE 5.99",29.99,SuperValu,20210420
+Kahlua Liqueur (70 cl),20.00,"WAS 27.00, NOW 20.00, SAVE 7.00",27.00,SuperValu,20210420
+Kopparberg Passionfruit Hard Seltzer (330 ml),3.00,"WAS 3.44, NOW 3.00, SAVE 0.44",3.44,SuperValu,20210420
+Kopparberger Mixed Berries Hard Seltzer (330 ml),3.00,"WAS 3.44, NOW 3.00, SAVE 0.44",3.44,SuperValu,20210420
+Malibu Original White Rum (70 cl),17.00,"WAS 24.25, NOW 17.00, SAVE 7.25",24.25,SuperValu,20210420
+Olmeca Tequila Reposado (70 cl),28.00,"WAS 32.99, NOW 28.00, SAVE 4.99",32.99,SuperValu,20210420
+Smirnoff Seltzer Orange & Grapefruit (250 ml),2.00,"WAS 3.00, NOW 2.00, SAVE 1.00",3.00,SuperValu,20210420
+Smirnoff Seltzer Raspberry & Rhubarb (250 ml),2.00,"WAS 3.00, NOW 2.00, SAVE 1.00",3.00,SuperValu,20210420
+Tails Berry Mojito Cocktails (1 L),30.00,"WAS 36.00, NOW 30.00, SAVE 6.00",36.00,SuperValu,20210420
+Tails Classic Mojito Cocktails (1 L),30.00,"WAS 36.00, NOW 30.00, SAVE 6.00",36.00,SuperValu,20210420
+Tails Espresso Martini Cocktails (1 L),30.00,"WAS 36.00, NOW 30.00, SAVE 6.00",36.00,SuperValu,20210420
+Tails Pornstar Martini Cocktails (1 L),30.00,"WAS 36.00, NOW 30.00, SAVE 6.00",36.00,SuperValu,20210420
+Tia Maria Coffee Liqueur (70 cl),20.00,"WAS 25.50, NOW 20.00, SAVE 5.50",25.50,SuperValu,20210420
+Bacardi Mojito Rum Premixed Drink (250 ml),2.60,,,SuperValu,20210420
+Bacardi Rum & Cola Rum Mixed Drink (250 ml),2.60,,,SuperValu,20210420
+Bacardi Spiced & Cola Premixed Drink (250 ml),2.60,,,SuperValu,20210420
+Bols Blue Curacao Liqueur (70 cl),25.00,,,SuperValu,20210420
+Bols Creme De Cassis (700 ml),20.89,,,SuperValu,20210420
+Bols Grenadine Syrup (70 cl),10.00,,,SuperValu,20210420
+Bols Strawberry Liqueur (70 cl),25.00,,,SuperValu,20210420
+Bombay Sapphire Gin and Tonic (250 ml),3.00,,,SuperValu,20210420
+Captain Morgan Spiced Gold & Cola Premixed Drink (250 ml),8.50,,,SuperValu,20210420
+Captain Morgan Spiced Gold Rum & Cola Premixed Can (250 ml),2.50,,,SuperValu,20210420
+El Jimador Tequila (70 cl),38.00,,,SuperValu,20210420
+Fireball Liqueur (50 cl),18.00,,,SuperValu,20210420
+Gordon's Gin & Tonic Premixed Cans 4 Pack (250 ml),8.50,,,SuperValu,20210420
+Gordon's Pink Gin & Tonic Premix Cans 10 Pack (250 ml),18.00,,,SuperValu,20210420
+Gordon's Pink Gin & Tonic Premixed Can 4 Pack (250 ml),8.50,,,SuperValu,20210420
+Jameson Ginger Ale and Lime Premixed Drink (250 ml),2.99,,,SuperValu,20210420
+Jose Cuervo Tequila (70 cl),30.55,,,SuperValu,20210420
+Malibu Rum and Sparkling Pineapple Premix Drink (250 ml),2.50,,,SuperValu,20210420
+Mil Spritz Rosa Gin (250 ml),2.50,,,SuperValu,20210420
+Pimm's Spirit Drink No. 1 (70 cl),25.50,,,SuperValu,20210420
+Santa Marta Limoncello (50 cl),16.99,,,SuperValu,20210420
+Smirnoff Vodka & Cola Premix Can (250 ml),2.50,,,SuperValu,20210420
+Smirnoff Vodka & Cranberry Premix Can (250 ml),2.50,,,SuperValu,20210420
+Smirnoff Vodka & Diet Cola Premix Can (250 ml),2.50,,,SuperValu,20210420
+Tequila Rose Strawberry Cream Liqueur (50 cl),18.30,,,SuperValu,20210420
+White Claw Black Cherry 4 Pack (33 cl),12.00,,,SuperValu,20210420
+White Claw Black Cherry Hard Seltzer (330 ml),3.00,,,SuperValu,20210420
+White Claw Natural Lime 4 Pack (33 cl),12.00,,,SuperValu,20210420
+White Claw Natural Lime Hard Seltzer (330 ml),3.00,,,SuperValu,20210420
+White Claw Raspberry 4 Pack (33 cl),12.00,,,SuperValu,20210420
+White Claw Raspberry Hard Seltzer (330 ml),3.00,,,SuperValu,20210420
+Hop House 13 Lager Cans 8 Pack (500 ml),12.50,"WAS 14.00, NOW 12.50, SAVE 1.50",14.00,SuperValu,20210420
+Hufi Beer Cans 4 Pack (500 ml),7.00,"WAS 7.50, NOW 7.00, SAVE 0.50",7.50,SuperValu,20210420
+Karpackie Lager Cans 8 Pack (500 ml),11.00,"WAS 12.00, NOW 11.00, SAVE 1.00",12.00,SuperValu,20210420
+Peroni Nastro  Azzurro (660 ml),3.00,"WAS 3.79, NOW 3.00, SAVE 0.79",3.79,SuperValu,20210420
+Peroni Nastro Azzurro Bottles 4 Pack (330 ml),7.00,"WAS 7.99, NOW 7.00, SAVE 0.99",7.99,SuperValu,20210420
+Birra Moretti Italian Lager Can 6 Pack (330 ml),9.00,,,SuperValu,20210420
+Birra Moretti Premium Lager (660 ml),3.25,,,SuperValu,20210420
+Birra Moretti Premium Lager Bottles 4 Pack (330 ml),7.50,,,SuperValu,20210420
+Budweiser Lager (500 ml),2.49,,,SuperValu,20210420
+Budweiser Lager Bottles 20 Pack (300 ml),18.00,,,SuperValu,20210420
+Budweiser Lager Cans 12 Pack (500 ml),19.00,,,SuperValu,20210420
+Budweiser Lager Cans 4 Pack (500 ml),7.50,,,SuperValu,20210420
+Budweiser Lager Cans 8 Pack (500 ml),14.00,,,SuperValu,20210420
+Carling Lager (440 ml),5.00,,,SuperValu,20210420
+Carlsberg Danish Pilsner Bottles 20 Pack (300 ml),18.00,,,SuperValu,20210420
+Carlsberg Danish Pilsner Lager (500 ml),2.39,,,SuperValu,20210420
+Carlsberg Danish Pilsner Lager Bottles 6 Pack (330 ml),11.50,,,SuperValu,20210420
+Carlsberg Danish Pilsner Lager Cans 12 Pack (500 ml),19.00,,,SuperValu,20210420
+Carlsberg Danish Pilsner Lager Cans 4 Pack (500 ml),7.50,,,SuperValu,20210420
+Cobra Beer (660 ml),3.00,,,SuperValu,20210420
+Coors Light Bottles 20 Pack (330 ml),25.00,,,SuperValu,20210420
+Coors Light Bottles 6 Pack (330 ml),11.50,,,SuperValu,20210420
+Coors Light Can (500 ml),2.45,,,SuperValu,20210420
+Corona Lager Bottles 12 Pack (330 ml),16.00,,,SuperValu,20210420
+Corona Light Lager Bottles 12 Pack (355 ml),16.50,,,SuperValu,20210420
+Corona Light Lager Bottles 6 Pack (355 ml),10.50,,,SuperValu,20210420
+Desperados Cans 4 Pack (500 ml),9.00,,,SuperValu,20210420
+Desperados Tequila flavoured Beer Bottles 6 Pack (330 ml),10.00,,,SuperValu,20210420
+Dutch Gold Cans 6 Pack (500 ml),7.00,,,SuperValu,20210420
+Hackenberg Pils Lager Cans 4 Pack (500 ml),5.99,,,SuperValu,20210420
+Heineken Lager Bottle (650 ml),3.00,,,SuperValu,20210420
+Heineken Lager Bottles 20 Pack (330 ml),24.00,,,SuperValu,20210420
+Heineken Lager Bottles 6 Pack (330 ml),11.75,,,SuperValu,20210420
+Heineken Lager Can (500 ml),2.35,,,SuperValu,20210420
+Heineken Lager Cans 12 Pack (500 ml),19.00,,,SuperValu,20210420
+Heineken Lager Cans 4 Pack (500 ml),7.75,,,SuperValu,20210420
+Heineken Lager Cans 8 Pack (500 ml),14.50,,,SuperValu,20210420
+Heineken Light Bottles 6 Pack (330 ml),10.00,,,SuperValu,20210420
+Heineken Light Cans 4 Pack (2 L),7.00,,,SuperValu,20210420
+Hop House 13 Lager 650ml Bottle (650 ml),3.96,,,SuperValu,20210420
+Hop House 13 Lager Bottles 20 Pack (330 ml),24.00,,,SuperValu,20210420
+Hop House 13 Lager Bottles 4 Pack (330 ml),7.00,,,SuperValu,20210420
+Hop House 13 Lager Cans 4 Pack (500 ml),9.00,,,SuperValu,20210420
+Karpackie Cans 4 Pack (500 ml),6.00,,,SuperValu,20210420
+Miller Genuine Draft Beer Bottles 6 Pack (330 ml),10.49,,,SuperValu,20210420
+Molson Canadian Lager Bottles 20 Pack (330 ml),18.00,,,SuperValu,20210420
+Molson Canadian Lager Cans 8 Pack (500 ml),12.50,,,SuperValu,20210420
+Peroni Nastro Azzurro Beer Bottles 18 Pack (330 ml),24.00,,,SuperValu,20210420
+Peroni Nastro Azzurro Gluten Free Bottles 4 Pack (82.5 ml),9.99,,,SuperValu,20210420
+Prazsky Lager Cans 4 Pack (500 ml),5.00,,,SuperValu,20210420
+Rockshore Lager Bottles 20 Pack (330 ml),22.00,,,SuperValu,20210420
+Rockshore Lager Bottles 6 Pack (330 ml),11.00,,,SuperValu,20210420
+Rockshore Lager Cans 4 Pack (500 ml),9.00,,,SuperValu,20210420
+Rockshore Lager Cans 8 Pack (500 ml),13.50,,,SuperValu,20210420
+Rockshore Light Lager Bottles 6 Pack (330 ml),11.00,,,SuperValu,20210420
+Rockshore Light Lager Cans 4 Pack (500 ml),8.00,,,SuperValu,20210420
+Rockshore Light Lager Cans 8 Pack (500 ml),14.00,,,SuperValu,20210420
+Satzenbrau Premium Pils (500 ml),3.10,,,SuperValu,20210420
+Staropramen Unfiltered Beer (500 ml),2.55,,,SuperValu,20210420
+Stella Artois Lager Can (500 ml),1.32,,,SuperValu,20210420
+Tennent's Lager Cans 4 Pack (500 ml),1.29,,,SuperValu,20210420
+Tennent's Lager Cans 6 Pack (500 ml),7.00,,,SuperValu,20210420
+Tiger Beer Bottles 4 Pack (330 ml),7.00,,,SuperValu,20210420
+Tuborg Lager Cans 8 Pack (500 ml),11.50,,,SuperValu,20210420
+Tyskie Beer 4 Pack (500 ml),7.98,,,SuperValu,20210420
+Beamish Draught Stout (500 ml),2.00,,,SuperValu,20210420
+Guinness Draught Stout (330 ml),2.25,,,SuperValu,20210420
+Guinness Draught Stout Can (500 ml),2.49,,,SuperValu,20210420
+Guinness Draught Stout Cans 4 Pack (500 ml),7.50,,,SuperValu,20210420
+Guinness Extra Stout 6 Pack Bottles (330 ml),11.50,,,SuperValu,20210420
+Guinness Extra Stout Can (500 ml),2.69,,,SuperValu,20210420
+Guinness Stout Bottles 4 Pack (500 ml),10.00,,,SuperValu,20210420
+Guinness Stout Cans 12 Pack (500 ml),19.00,,,SuperValu,20210420
+Murphy's Draught Irish Stout Cans 6 Pack (500 ml),15.00,,,SuperValu,20210420
+Kilkenny Draught Ale Can (500 ml),2.89,,,SuperValu,20210420
+Smithwick's Irish Red Ale (500 ml),2.75,,,SuperValu,20210420
+Smithwick's Red Ale (500 ml),2.69,,,SuperValu,20210420
+Smithwick's Red Ale Cans 8 Pack (500 ml),14.50,,,SuperValu,20210420
+Asahi Super Dry Beer 4 Pack (330 ml),7.00,"WAS 8.00, NOW 7.00, SAVE 1.00",8.00,SuperValu,20210420
+Journeyman IPL (500 ml),2.50,"WAS 2.60, NOW 2.50, SAVE 0.10",2.60,SuperValu,20210420
+Journeyman Pale Ale (500 ml),2.50,"WAS 2.60, NOW 2.50, SAVE 0.10",2.60,SuperValu,20210420
+McGargles Dan's Double IPA (500 ml),3.00,"WAS 3.49, NOW 3.00, SAVE 0.49",3.49,SuperValu,20210420
+O'Hara's Double IPA (500 ml),3.00,"WAS 3.25, NOW 3.00, SAVE 0.25",3.25,SuperValu,20210420
+O'Hara's Session IPA (500 ml),2.50,"WAS 2.75, NOW 2.50, SAVE 0.25",2.75,SuperValu,20210420
+O'Hara's Tropical IPA (500 ml),3.00,"WAS 3.25, NOW 3.00, SAVE 0.25",3.25,SuperValu,20210420
+O'Hara's White Haze IPA (500 ml),2.50,"WAS 2.75, NOW 2.50, SAVE 0.25",2.75,SuperValu,20210420
+9 White Deer Stag Kolsch (500 ml),3.25,,,SuperValu,20210420
+Asahi Super Dry Beer (620 ml),3.79,,,SuperValu,20210420
+Brewdog Clockwork Tangerine IPA Cans 4 Pack (330 ml),10.00,,,SuperValu,20210420
+Bru Brewery Gluten Free Lager (500 ml),2.75,,,SuperValu,20210420
+Budweiser Budvar Beer (500 ml),2.60,,,SuperValu,20210420
+Erdinger Kristall Weissbier Bottle (500 ml),2.60,,,SuperValu,20210420
+Erdinger Weissbier Dunkel Bottle (500 ml),2.60,,,SuperValu,20210420
+Estrella Galicia Premium Lager (660 ml),3.00,,,SuperValu,20210420
+Foxes Rock Gluten Free Lager (500 ml),2.99,,,SuperValu,20210420
+Krombacher Pils Bottle (500 ml),2.60,,,SuperValu,20210420
+Leffe Blonde Abbey Beer Bottles 4 Pack (330 ml),8.75,,,SuperValu,20210420
+O'Hara's Irish Craft Lager (500 ml),2.75,,,SuperValu,20210420
+Paulaner Beer (500 ml),2.60,,,SuperValu,20210420
+Sierra Nevada Draught Pale Ale Cans 4 Pack (355 ml),10.00,,,SuperValu,20210420
+Sierra Nevada Pale Ale (355 ml),2.60,,,SuperValu,20210420
+Staropramen Granat Beer (500 ml),2.55,,,SuperValu,20210420
+Staropramen Pilsner (500 ml),2.55,,,SuperValu,20210420
+Tiger Beer Bottle (500 ml),2.60,,,SuperValu,20210420
+Wicklow Wolf Arcadia Gluten Free Lager Can (440 ml),3.00,,,SuperValu,20210420
+Guinness West Indies Porter Bottle (500 ml),2.75,,,SuperValu,20210420
+O'Hara's Irish Stout Bottle (500 ml),2.75,,,SuperValu,20210420
+O'Hara's Leann Folláin Stout (500 ml),2.75,,,SuperValu,20210420
+Shepherd Neame & Co Double Stout (500 ml),3.69,,,SuperValu,20210420
+Stag Saor Stout (500 ml),3.25,,,SuperValu,20210420
+8d Howling Gale Irish Pale Ale (440 ml),2.50,"WAS 3.00, NOW 2.50, SAVE 0.50",3.00,SuperValu,20210420
+8d Seisiún IPA (440 ml),2.50,"WAS 3.00, NOW 2.50, SAVE 0.50",3.00,SuperValu,20210420
+9 White Deer Stag IPA (500 ml),3.00,"WAS 3.25, NOW 3.00, SAVE 0.25",3.25,SuperValu,20210420
+BRÚ Brewery IPA (500 ml),2.50,"WAS 2.75, NOW 2.50, SAVE 0.25",2.75,SuperValu,20210420
+Franciscan Well Chieftain IPC Cans 4 Pack (330 ml),8.00,"WAS 10.00, NOW 8.00, SAVE 2.00",10.00,SuperValu,20210420
+Franciscan Well Pilgrims Ale Cans 4 Pack (330 ml),8.00,"WAS 10.00, NOW 8.00, SAVE 2.00",10.00,SuperValu,20210420
+Hop Adventure Pale Ale (500 ml),2.50,"WAS 2.75, NOW 2.50, SAVE 0.25",2.75,SuperValu,20210420
+Journeyman IPA (500 ml),2.50,"WAS 2.60, NOW 2.50, SAVE 0.10",2.60,SuperValu,20210420
+Journeyman Session IPA (500 ml),2.50,"WAS 2.60, NOW 2.50, SAVE 0.10",2.60,SuperValu,20210420
+McGargles Daragh's Session IPA (500 ml),2.50,"WAS 2.75, NOW 2.50, SAVE 0.25",2.75,SuperValu,20210420
+McGargles Francis' Big Bangin' IPA (500 ml),2.95,"WAS 3.29, NOW 2.95, SAVE 0.34",3.29,SuperValu,20210420
+McGargles Ned's Retro IPA (500 ml),3.00,"WAS 3.29, NOW 3.00, SAVE 0.29",3.29,SuperValu,20210420
+O'Hara's 51st State IPA (500 ml),2.50,"WAS 2.75, NOW 2.50, SAVE 0.25",2.75,SuperValu,20210420
+O'Hara's Irish Red Ale (500 ml),2.50,"WAS 2.75, NOW 2.50, SAVE 0.25",2.75,SuperValu,20210420
+Brewdog Dead Pony Club Session IPA Cans 4 Pack (330 ml),10.00,,,SuperValu,20210420
+Brewdog Elvis Juice IPA Cans 4 Pack (330 ml),11.00,,,SuperValu,20210420
+Brewdog Punk IPA 5.4% 4 Pack (330 ml),10.00,,,SuperValu,20210420
+BRÚ Brewery Red Ale Irish Craft Beer (500 ml),2.75,,,SuperValu,20210420
+Crabbie's Alcoholic Ginger Beer (500 ml),3.49,,,SuperValu,20210420
+Duvel Belgian Golden Ale (330 ml),3.30,,,SuperValu,20210420
+Foxes Rock American Style IPA (500 ml),2.75,,,SuperValu,20210420
+Foxes Rock India Pale Lager (500 ml),2.75,,,SuperValu,20210420
+Foxes Rock Red Ale (500 ml),2.75,,,SuperValu,20210420
+Foxes Rock Session IPA (500 ml),2.75,,,SuperValu,20210420
+Fullers London Pride (500 ml),2.75,,,SuperValu,20210420
+Galway Hooker Irish Pale Ale (500 ml),2.75,,,SuperValu,20210420
+Kinnegar Rustbucket Rye Ale (440 ml),3.25,,,SuperValu,20210420
+Kinnegar Scraggy Bay IPA (440 ml),3.25,,,SuperValu,20210420
+Lagunitas IPA (355 ml),2.75,,,SuperValu,20210420
+Lagunitas IPA Beer Bottles 4 Pack (355 ml),10.00,,,SuperValu,20210420
+McGargles Cousin Rosie's Pale Ale (500 ml),2.75,,,SuperValu,20210420
+McGargles Daragh's Grapefruit Session IPA Cans 4 Pack (330 ml),10.00,,,SuperValu,20210420
+McGargles Fancy Frank's Lager (500 ml),2.75,,,SuperValu,20210420
+McGargles Sammy's Citra Extra Pale Ale Cans 4 Pack (330 ml),10.00,,,SuperValu,20210420
+O'Hara's Irish Red Bottle (500 ml),2.75,,,SuperValu,20210420
+O'Hara's Opsession Ipa Ale (500 ml),2.50,,,SuperValu,20210420
+Porterhouse Session Pale Ale (500 ml),2.75,,,SuperValu,20210420
+Smithwicks Blonde Ale (500 ml),2.75,,,SuperValu,20210420
+Smithwicks Pale Ale (500 ml),2.75,,,SuperValu,20210420
+Whiplash Body Riddle American Pale Ale Can (330 ml),2.60,,,SuperValu,20210420
+Whiplash Rollover Session Ipa Can (330 ml),2.60,,,SuperValu,20210420
+Wicklow Wolf Mammonth IPA (440 ml),3.00,,,SuperValu,20210420
+Wicklow Wolf Wildfire Hoppy Red Ale (440 ml),3.00,,,SuperValu,20210420
+Wickow Wolf Elevation Pale Ale (440 ml),3.00,,,SuperValu,20210420
+Hallows & Fentimans Alcoholic Ginger Beer (500 ml),3.99,,,SuperValu,20210420
+Mac Ivors Medium Dry Cider (500 ml),3.25,,,SuperValu,20210420
+Mac Ivors Plum & Ginger Cider (500 ml),3.33,,,SuperValu,20210420
+Mac Ivors Traditional Dry Cider (500 ml),3.25,,,SuperValu,20210420
+Kopparberg Strawberry & Lime Cider (500 ml),2.60,"WAS 3.75, NOW 2.60, SAVE 1.15",3.75,SuperValu,20210420
+Appleman's Cider Can (500 ml),2.05,,,SuperValu,20210420
+Bulmers Irish Cider Bottles 20 Pack (300 ml),20.00,,,SuperValu,20210420
+Bulmers Irish Cider Bottles 6 Pack (330 ml),10.00,,,SuperValu,20210420
+Bulmers Light Irish Cider (500 ml),2.20,,,SuperValu,20210420
+Bulmers Light Irish Cider Bottles 20 Pack (300 ml),20.00,,,SuperValu,20210420
+Bulmers Original Irish Cider Bottle (1 L),5.35,,,SuperValu,20210420
+Bulmers Original Irish Cider Can (500 ml),2.20,,,SuperValu,20210420
+Bulmers Rose Irish Cider Bottle 4 Pack (330 ml),8.00,,,SuperValu,20210420
+Devils Bit Irish Cider (2 L),6.49,,,SuperValu,20210420
+Druids Celtic Cider Can (500 ml),1.50,,,SuperValu,20210420
+Druids Celtic Cider Cans 4 Pack (500 ml),6.00,,,SuperValu,20210420
+Kopparberg Mixed Fruit Premium Cider (500 ml),3.45,,,SuperValu,20210420
+Kopparberg Rose Apple Cider (500 ml),3.45,,,SuperValu,20210420
+Kopparberg Strawberry & Lime Cider (500 ml),3.45,,,SuperValu,20210420
+Linden Village Irish Cider Bottle (2 L),7.15,,,SuperValu,20210420
+Linden Village Irish Cider Cans 4 Pack (500 ml),6.00,,,SuperValu,20210420
+Old Mout Cider Strawberry & Pomegranate Cider (500 ml),3.09,,,SuperValu,20210420
+Old Mout Kiwi & Lime Cider (500 ml),3.09,,,SuperValu,20210420
+Orchard Thieves Apple Cider (500 ml),2.05,,,SuperValu,20210420
+Orchard Thieves Apple Cider Cans 8 Pack (500 ml),13.50,,,SuperValu,20210420
+Orchard Thieves Cider Cans 4 Pack (500 ml),7.00,,,SuperValu,20210420
+Orchard Thieves Light Apple Cider Cans 8 Pack (500 ml),13.50,,,SuperValu,20210420
+Ritz Can (500 ml),2.75,,,SuperValu,20210420
+Rockshore Apple Cider (500 ml),2.29,,,SuperValu,20210420
+Rockshore Apple Cider Bottles 4 Pack (330 ml),7.50,,,SuperValu,20210420
+Rockshore Apple Cider Cans 8 Pack (500 ml),13.50,,,SuperValu,20210420
+Stonehouse Cider Can (500 ml),1.64,,,SuperValu,20210420
+WKD Blue 4 Pack (275 ml),7.00,"WAS 10.99, NOW 7.00, SAVE 3.99",10.99,SuperValu,20210420
+Sminoff Ice Vodka Original (70 cl),5.50,,,SuperValu,20210420
+West Coast Cooler (750 ml),6.79,,,SuperValu,20210420
+West Coast Cooler Rose (750 ml),6.79,,,SuperValu,20210420
+WKD Blue (70 cl),7.00,,,SuperValu,20210420
+WKD Blue 10 Pack (275 ml),15.00,,,SuperValu,20210420
+WKD Pink Gin (700 ml),7.00,,,SuperValu,20210420
+Barefoot White Zinfandel (75 cl),8.00,"WAS 9.99, NOW 8.00, SAVE 1.99",9.99,SuperValu,20210420
+Blossom Hill White Zinfandel (75 cl),9.00,"WAS 11.99, NOW 9.00, SAVE 2.99",11.99,SuperValu,20210420
+Casillero del Diablo Rose (75 cl),9.00,"WAS 11.99, NOW 9.00, SAVE 2.99",11.99,SuperValu,20210420
+Gallo Family Raspberry & Lime Spritz (75 cl),5.00,"WAS 7.00, NOW 5.00, SAVE 2.00",7.00,SuperValu,20210420
+Graham Norton's Own Rose (75 cl),12.00,"WAS 14.99, NOW 12.00, SAVE 2.99",14.99,SuperValu,20210420
+B by Black Tower Secco Rose (75 cl),5.00,,,SuperValu,20210420
+Black Tower Rose Wine (75 cl),5.00,,,SuperValu,20210420
+Cotes de Provence Bendel Cuvee Caroline (75 cl),14.99,,,SuperValu,20210420
+Gallo Family White Grenache (75 cl),9.99,,,SuperValu,20210420
+Kylie Minogue Rose (75 cl),15.00,,,SuperValu,20210420
+Mateus Rosé (75 cl),10.99,,,SuperValu,20210420
+Rose De Anjou Le Point Du Jour (75 cl),11.99,,,SuperValu,20210420
+Sarah Jessica Parker Rose (75 cl),18.00,,,SuperValu,20210420
+Whispering Angel Rose (75 cl),25.00,,,SuperValu,20210420
+Buckfast Tonic Wine (75 cl),13.99,,,SuperValu,20210420
+Martini Bianco Vermouth (75 cl),12.20,,,SuperValu,20210420
+Martini Extra Dry Vermout (75 cl),12.20,,,SuperValu,20210420
+Martini Rosso Vermouth (75 cl),12.20,,,SuperValu,20210420
+Cockburn's Fine Ruby Port (75 cl),16.99,,,SuperValu,20210420
+Sandeman 3 Star Port (75 cl),16.50,,,SuperValu,20210420
+Sandeman 5 Star Port (75 cl),17.50,,,SuperValu,20210420
+A Winter's Tale Amontillado Sherry (75 cl),14.49,,,SuperValu,20210420
+Croft Original Sherry (75 cl),15.79,,,SuperValu,20210420
+Harveys Bristol Cream Sherry (37.5 cl),9.79,,,SuperValu,20210420
+Harveys Bristol Cream Sherry (75 cl),16.49,,,SuperValu,20210420
+Old Cellar Cream (70 cl),8.00,,,SuperValu,20210420
+Blossom Hill Rhubarb Gin Fizz (75 cl),10.00,"WAS 15.00, NOW 10.00, SAVE 5.00",15.00,SuperValu,20210420
+Cantine Maschio Prosecco 3 Pack (20 cl),10.00,"WAS 12.00, NOW 10.00, SAVE 2.00",12.00,SuperValu,20210420
+Freixenet Italian Rose (75 cl),20.00,"WAS 26.00, NOW 20.00, SAVE 6.00",26.00,SuperValu,20210420
+Graham Norton's Own Prosecco Frizzante (75 cl),10.00,"WAS 12.00, NOW 10.00, SAVE 2.00",12.00,SuperValu,20210420
+Griffon Frizzante Rose (75 cl),9.00,"WAS 11.99, NOW 9.00, SAVE 2.99",11.99,SuperValu,20210420
+Grifon Prosecco Frizzante (75 cl),9.00,"WAS 11.99, NOW 9.00, SAVE 2.99",11.99,SuperValu,20210420
+Bollinger Non Vintage Champagne (75 cl),64.99,,,SuperValu,20210420
+Emotivo Prosecco Frizzante (75 cl),12.00,,,SuperValu,20210420
+I Heart Prosecco (75 cl),12.99,,,SuperValu,20210420
+I Heart Prosecco (75 cl),20.99,,,SuperValu,20210420
+Jacob's Creek Sparkling Rosé (75 cl),17.99,,,SuperValu,20210420
+Jacob's Creek Sparkling Wine (75 cl),17.99,,,SuperValu,20210420
+McGuigan Black Label Frizzante (75 cl),14.99,,,SuperValu,20210420
+Mumm Cordon Rouge Brut Champagne Non-Vintage (75 cl),47.00,,,SuperValu,20210420
+Pierre Darcys Champagne Brut (75 cl),29.99,,,SuperValu,20210420
+Segura Viudas Brut Reserva Heredad (75 cl),30.00,,,SuperValu,20210420
+Zonin Prosecco DOC Cuvee (75 cl),19.99,,,SuperValu,20210420
+Graham Norton's Own Shiraz (75 cl),12.00,"WAS 14.99, NOW 12.00, SAVE 2.99",14.99,SuperValu,20210420
+Wolf Blass Eaglehawk Cabernet Sauvignon (75 cl),8.00,"WAS 11.99, NOW 8.00, SAVE 3.99",11.99,SuperValu,20210420
+Wolf Blass Eaglehawk Merlot (75 cl),8.00,"WAS 11.99, NOW 8.00, SAVE 3.99",11.99,SuperValu,20210420
+Wyndham Bin 555 Shiraz (75 cl),11.00,"WAS 14.50, NOW 11.00, SAVE 3.50",14.50,SuperValu,20210420
+19 Crimes Red Blend (75 cl),14.99,,,SuperValu,20210420
+Barossa Ink Shiraz (75 cl),15.00,,,SuperValu,20210420
+Barossa Valley Estate Cabernet Sauvignon (75 cl),16.99,,,SuperValu,20210420
+Barossa Valley Estate Grenache Shiraz Mourvedre (75 cl),16.99,,,SuperValu,20210420
+Barossa Valley Estate Shiraz (75 cl),16.99,,,SuperValu,20210420
+D'Arenberg The High Trellis Cabernet Sauvignon (75 cl),15.00,,,SuperValu,20210420
+La Brutta Zinfandel Petite Sira (75 cl),14.99,,,SuperValu,20210420
+McGuigan Black Label  Shiraz (75 cl),11.99,,,SuperValu,20210420
+McGuigan Black Label Malbec (75 cl),11.99,,,SuperValu,20210420
+McGuigan Black Label Merlot (75 cl),11.99,,,SuperValu,20210420
+Nugan Estate 3rd Generation Cabernet Shiraz (75 cl),10.99,,,SuperValu,20210420
+Nugan Estate 3rd Generation Shiraz (75 cl),10.99,,,SuperValu,20210420
+Nugan Estate Alcira Cabernet Sauvignon (75 cl),15.99,,,SuperValu,20210420
+Nugan Estate Alfredo Dried Grape Shiraz (75 cl),15.99,,,SuperValu,20210420
+Nugan Estate Alfredo Passo Apassimento (75 cl),12.99,,,SuperValu,20210420
+Nugan Estate Alfredo Second Pass Shiraz (75 cl),15.99,,,SuperValu,20210420
+Nugan Estate McLaren Vale Shiraz (75 cl),15.99,,,SuperValu,20210420
+Nugan Estate Single Vineyard Zinfandel (75 cl),15.99,,,SuperValu,20210420
+Nugan Estate Stomper's Cabernet Sauvignon (75 cl),12.99,,,SuperValu,20210420
+Parkville Reserve Merlot (75 cl),15.99,,,SuperValu,20210420
+Wally's Hut Shiraz (75 cl),9.99,,,SuperValu,20210420
+Wolf Blass Red Label Shiraz Cabernet (75 cl),12.99,,,SuperValu,20210420
+Wolf Blass Silver Label Shiraz Cabernet Malbec (75 cl),17.99,,,SuperValu,20210420
+Wolf Blass Yellow Label Cabernet Sauvignon (75 cl),13.49,,,SuperValu,20210420
+Wolf Blass Yellow Label Shiraz (75 cl),13.49,,,SuperValu,20210420
+Yellow Tail Merlot (75 cl),11.49,,,SuperValu,20210420
+Yellow Tail Shiraz (75 cl),11.49,,,SuperValu,20210420
+Carmen Insigne Cabernet Sauvignon (75 cl),8.00,"WAS 11.50, NOW 8.00, SAVE 3.50",11.50,SuperValu,20210420
+Carmen Wave Series Pinot Noir (75 cl),10.00,"WAS 14.99, NOW 10.00, SAVE 4.99",14.99,SuperValu,20210420
+Casillero Del Diablo Cabernet Sauvignon (75 cl),9.00,"WAS 11.99, NOW 9.00, SAVE 2.99",11.99,SuperValu,20210420
+Casillero Del Diablo Merlot (75 cl),9.00,"WAS 11.99, NOW 9.00, SAVE 2.99",11.99,SuperValu,20210420
+Diablo Dark Red (75 cl),12.00,"WAS 15.00, NOW 12.00, SAVE 3.00",15.00,SuperValu,20210420
+Santa Rita Medalla Real Cabernet Sauvignon (75 cl),12.00,"WAS 16.00, NOW 12.00, SAVE 4.00",16.00,SuperValu,20210420
+Aresti Estate Selection Merlot (75 cl),10.99,,,SuperValu,20210420
+Aresti Family Collection (75 cl),24.99,,,SuperValu,20210420
+Carmen Premier 1850  Merlot (75 cl),12.49,,,SuperValu,20210420
+Chronos Black Label Cabernet Sauvignon (75 cl),10.99,,,SuperValu,20210420
+Cono Sur Cabernet Sauvignon (75 cl),11.49,,,SuperValu,20210420
+Cono Sur Merlot (75 cl),11.49,,,SuperValu,20210420
+Cono Sur Valley Collection Cabernet Sauvignon (75 cl),14.00,,,SuperValu,20210420
+Espiritu Reserva Privada Cabernet Sauvignon (75 cl),14.99,,,SuperValu,20210420
+In Situ Gran Reserva Cabernet Sauvignon (75 cl),16.99,,,SuperValu,20210420
+Rio Alto Classic Cabernet Sauvignon (75 cl),7.00,,,SuperValu,20210420
+Rio Alto Classic Merlot (75 cl),7.00,,,SuperValu,20210420
+Santa Rita 120 Cabernet Sauvignon (375 ml),6.99,,,SuperValu,20210420
+Santa Rita 120 Cabernet Sauvignon (75 cl),12.50,,,SuperValu,20210420
+Santa Rita 120 Malbec (75 cl),12.50,,,SuperValu,20210420
+Santa Rita 120 Merlot (75 cl),12.50,,,SuperValu,20210420
+Santa Rita 120 Shiraz (75 cl),12.50,,,SuperValu,20210420
