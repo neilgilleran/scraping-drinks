@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Tesco - IRL",
+    "parser": "tesco",
+    "use_selenium": true,
+    "increment": 20,
+    "start": 0,
+    "bases": [
+      "https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=",
+      "https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294794608&Ne=4294954028&Nao=",
+      "https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294953032&Ne=4294954028&Nao="
+    ]
+  },
+  {
+    "name": "OBriens",
+    "parser": "obriens",
+    "use_selenium": true,
+    "increment": 1,
+    "start": 1,
+    "bases": [
+      "https://www.obrienswine.ie/collections/spirits?page=",
+      "https://www.obrienswine.ie/collections/wine?page=",
+      "https://www.obrienswine.ie/collections/beer?page=",
+      "https://www.obrienswine.ie/collections/champange-sparkling?page=",
+      "https://www.obrienswine.ie/collections/mixed-cases?page=",
+      "https://www.obrienswine.ie/collections/gifts?page="
+    ]
+  },
+  {
+    "name": "SuperValu",
+    "parser": "supervalu",
+    "use_selenium": false,
+    "page_param": "?page=",
+    "max_page": 4,
+    "increment": 1,
+    "start": 1,
+    "bases": [
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits/c-150100075",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-vodka/c-150302430",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-irish-whiskey/c-150302435",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-american-whiskey/c-150302450",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-scotch-whisky/c-150302440",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-brandy/c-150302455",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-cream-liquers/c-150302460",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-gin/c-150302465",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-rum/c-150302475",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-other/c-150302480",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-lager/c-150302375",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-stout/c-150302380",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-ale/c-150302385",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-lager/c-150302386",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-stout/c-150302387",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-ale/c-150302388",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-cider/c-150302389",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-cider/c-150302390",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-alcopops/c-150302395",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-rose/c-150302555",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-other-fortified-dessert-wines/c-150410130",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-port/c-150410125",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-sherry/c-150410120",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-champagne-sparkling/c-150302545",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-australia/c-150409945",
+      "https://shop.supervalu.ie/shopping/wine-beer-spirits-chile/c-150409950"
+    ]
+  }
+]
