@@ -19,8 +19,7 @@ import requests
 
 stuff_heads=['Name','Price','PreviousPrice','Offer']
 strip_previous_price = re.compile('(was)\s+\d+\.\d+', re.IGNORECASE)
-#df = pd.DataFrame()
-df = pd.DataFrame(pd.np.empty((0, 4)))    
+df = pd.DataFrame(columns=stuff_heads)
 nao = 0
 incrementor = 20
 bases=['https://www.tesco.ie/groceries/product/browse/default.aspx?N=4294531818&Ne=4294954028&Nao=',
@@ -93,9 +92,6 @@ for base in bases:
         df = df.append(data,ignore_index=True)
         
         nao = incrementor + nao
-
-
-df.columns = stuff_heads
 
 
 try:
